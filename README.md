@@ -29,7 +29,8 @@ Indicate the number of drivers in `main.py` by `NUMBER_OF_DRIVERS` variable.
 
 #### 2. Authentication
 The request's header of Snapp/Tapsi API and the API key of Neshan should define as environment variables.
-Snapp's authentication could be obtained from [Snapp's webapp](https://app.snapp.taxi/pre-ride) and Tapsi's authentication could be obtained their [webapp](https://app.tapsi.cab). Example of Snapp/Tapsi's header avilable at: [Snapp](https://gist.github.com/thisistayeb/2aa5d9acec6db1355af94ce80ab58ed6), [Tapsi](https://gist.github.com/thisistayeb/118a0905fa85c478d72b9acc5a0c1605).
+Snapp's authentication could be obtained from [Snapp's webapp](https://app.snapp.taxi/pre-ride) and Tapsi's authentication could be obtained their [webapp](https://app.tapsi.cab).
+>Example of Snapp/Tapsi's header avilable at: [Snapp](https://gist.github.com/thisistayeb/2aa5d9acec6db1355af94ce80ab58ed6), [Tapsi](https://gist.github.com/thisistayeb/118a0905fa85c478d72b9acc5a0c1605).
 
 #### 3. Run script
 
